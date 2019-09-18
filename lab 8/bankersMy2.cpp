@@ -100,7 +100,6 @@ int main()
         }
     }
 
-
     cout << "safe Sequence: " ;
     for(int j = 0 ; j < completed.size() ; j ++)
     {
